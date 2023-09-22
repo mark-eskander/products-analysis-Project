@@ -6,5 +6,5 @@ our data is about products of market ,quantity of each product ,sales..i asked s
 3- what time should we display advertisments to maximize sales? <br/>
 # to answer this question I used w approaches : first is Apriori algorithm , second is using counters and combinations
 4- what products are most often sold together 
-# to asswer prev. questions 
+# to answer prev. questions 
 I made EDA to know the data , cleaning & preprocessing and answer the questions by  using visualization
